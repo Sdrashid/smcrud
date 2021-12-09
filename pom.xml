@@ -10,7 +10,6 @@
 	</parent>
 	<groupId>com.sm.crud</groupId>
 	<artifactId>sm-crud</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>sm-crud</name>
 	<description>Demo project for Spring Boot Hibernnate and MVC</description>
 	<properties>
